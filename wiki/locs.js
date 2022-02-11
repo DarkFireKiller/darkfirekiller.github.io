@@ -26,6 +26,7 @@ var locIndex = {
     aozorahills: "aozora-hills-location",
     aqlesson: "aq-lesson",
     aqw3d: "3d-battleon",
+    arcadia: "arcadia",
     arcadion: "arcadion-location",
     arcangrove: "arcangrove",
     archives: "swordhaven-archives",
