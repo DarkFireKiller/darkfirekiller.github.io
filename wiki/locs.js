@@ -626,6 +626,8 @@ var locIndex = {
     masquerade: "masquerade",
     maul: "chopping-maul",
     maxius: "maxius",
+    meateorhunt: "meateor-hunt",
+    meateortown: "meateor-town",
     meatlab: "meat-lab",
     memento: "memento",
     memetnightmare: "memet-s-nightmare",
