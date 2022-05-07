@@ -423,6 +423,7 @@ var locIndex = {
     firetown: "fire-town",
     firetunnel: "fire-tunnel",
     firewar: "firewar",
+    firstobservatory: "first-observatory",
     fishing: "fishing-location",
     fivesaloon: "five-saloon",
     float: "harvest-floats",
