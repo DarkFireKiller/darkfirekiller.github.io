@@ -700,6 +700,7 @@ var locIndex = {
     nursery: "nursery",
     nyx: "nyx",
     oaklore: "oaklore",
+    oddities: "oddities",
     odokuro: "odokuro",
     onsen: "future-of-akiba",
     onslaughttower: "onslaught-tower",
