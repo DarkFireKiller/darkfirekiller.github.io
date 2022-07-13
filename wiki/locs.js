@@ -435,6 +435,7 @@ var locIndex = {
     forestchaos: "forest-of-chaos",
     forestdefend: "doomwood-forest-defend",
     forestreach: "forest-reach",
+    forge: "forge",
     fotia: "fotia",
     foulestfowl: "foulest-fowl-location",
     foulfarm: "foul-farm",
