@@ -910,6 +910,7 @@ var locIndex = {
     thunderfang: "thunderfang-spire",
     tilt: "tilt",
     timeinn: "inn-at-the-edge-of-time",
+    timekeep: "time-keep",
     timelibrary: "time-library",
     timeportal: "time-portal",
     timeritual: "time-ritual-location",
