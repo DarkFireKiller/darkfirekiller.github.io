@@ -189,6 +189,7 @@ var locIndex = {
     charredpath: "charred-path",
     charredplains: "charred-plains",
     chateau: "swaggy-s-chateau",
+    chchallenge: "class-hall-challenge",
     chessmap: "chess-map",
     chromafection: "chromafection-location",
     chronohub: "chronomancy-hub",
