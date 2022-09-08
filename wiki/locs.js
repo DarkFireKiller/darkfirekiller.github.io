@@ -871,6 +871,7 @@ var locIndex = {
     story: "story-location",
     strategy: "strategy-dept",
     stream: "stream",
+    streamwar: "timestream war",
     styx: "styx",
     suatmr: "suatmr",
     summerbreak: "summer-hub",
