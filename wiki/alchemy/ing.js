@@ -520,8 +520,8 @@ const BREWS = {
     Dam: [
       { p: "Honor Potion", q: 3 },
       { p: "Honor Potion", q: 4 },
-      { p: "Malic Potion", q: 3 },
-      { p: "Malic Potion", q: 4 },
+      { p: "Malice Potion", q: 3 },
+      { p: "Malice Potion", q: 4 },
     ],
     APw: [
       { p: "Basic Battle Elixir", q: 3 },
@@ -626,7 +626,7 @@ const POTS = {
     a: "Chaoroot",
     b: "Chaos Entity",
   },
-  "Malic Potion": {
+  "Malice Potion": {
     r: "Gebo",
     t: "Dam",
     a: "Chaoroot",
