@@ -1,4 +1,5 @@
 var locIndex = {
+    lostvilla: "lost-villa",
     voidchasm: "void-chasm",
     voidrefuge: "void-refuge",
     crocriver: "crocodile-river",
