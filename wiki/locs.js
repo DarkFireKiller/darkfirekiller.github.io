@@ -1,4 +1,5 @@
 var locIndex = {
+    frostvalgala: "frostval-gala",
     skadespass: "skades-pass",
     ebilmegamall: "ebil-mega-mall",
     moglinfeast: "moglin-feast",
