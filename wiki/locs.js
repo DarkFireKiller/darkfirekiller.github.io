@@ -1,4 +1,5 @@
 var locIndex = {
+    unsungnecropolis, "unsung-necropolis", 
     frostvalgala: "frostval-gala",
     skadespass: "skades-pass",
     ebilmegamall: "ebil-mega-mall",
