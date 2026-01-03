@@ -1,4 +1,6 @@
 var locIndex = {
+    cyseroparadox: "cysero-s-paradox",
+    worldender: "world-ender",
     unsungnecropolis: "unsung-necropolis", 
     frostvalgala: "frostval-gala",
     skadespass: "skades-pass",
