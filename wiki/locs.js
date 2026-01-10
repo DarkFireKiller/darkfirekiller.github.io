@@ -1,4 +1,5 @@
 var locIndex = {
+    meresankhchambers: "meresankh-chambers",
     cyseroparadox: "cysero-s-paradox",
     worldender: "world-ender",
     unsungnecropolis: "unsung-necropolis", 
